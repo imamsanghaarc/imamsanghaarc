@@ -59,10 +59,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imsanghaar&show_icons=true&theme=radical&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsanghaar&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=imamsanghaarc&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imamsanghaarc&layout=compact&theme=radical&hide_border=true"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=imsanghaar&theme=radical&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=imamsanghaarc&theme=radical&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -72,12 +72,12 @@
 
 - 🌐 Portfolio: [imsanghaar.vercel.app](https://imsanghaar.vercel.app)
 - 💼 LinkedIn: [Imam Sanghaar Chandio](https://www.linkedin.com/in/imam-sanghaar-chandio-96780b274)
-- 🐙 GitHub: [@imsanghaar](https://github.com/imsanghaar)
+- 🐙 GitHub: [@imamsanghaarc](https://github.com/imamsanghaarc)
 
 <div align="center">
 
 ⭐ *From Karachi to the world — building the future, one agent at a time.* ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=imsanghaar&style=for-the-badge&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=imamsanghaarc&style=for-the-badge&color=blueviolet)
 
 </div>
